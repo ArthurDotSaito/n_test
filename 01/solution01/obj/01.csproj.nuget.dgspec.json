@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/arthur/AcerSSD1/Projects/Nuria/01/01.csproj": {}
+    "/media/arthur/AcerSSD1/Projects/Nuria/01/solution01/01.csproj": {}
   },
   "projects": {
-    "/media/arthur/AcerSSD1/Projects/Nuria/01/01.csproj": {
+    "/media/arthur/AcerSSD1/Projects/Nuria/01/solution01/01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/arthur/AcerSSD1/Projects/Nuria/01/01.csproj",
+        "projectUniqueName": "/media/arthur/AcerSSD1/Projects/Nuria/01/solution01/01.csproj",
         "projectName": "01",
-        "projectPath": "/media/arthur/AcerSSD1/Projects/Nuria/01/01.csproj",
+        "projectPath": "/media/arthur/AcerSSD1/Projects/Nuria/01/solution01/01.csproj",
         "packagesPath": "/home/arthur/.nuget/packages/",
-        "outputPath": "/media/arthur/AcerSSD1/Projects/Nuria/01/obj/",
+        "outputPath": "/media/arthur/AcerSSD1/Projects/Nuria/01/solution01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/arthur/.nuget/NuGet/NuGet.Config"

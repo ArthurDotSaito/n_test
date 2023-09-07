@@ -1,0 +1,14 @@
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/obj/Debug/net7.0/solution01 - bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/obj/Debug/net7.0/solution01 - bubbleSort.AssemblyInfoInputs.cache
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/obj/Debug/net7.0/solution01 - bubbleSort.AssemblyInfo.cs
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/obj/Debug/net7.0/solution01 - bubbleSort.csproj.CoreCompileInputs.cache
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/bin/Debug/net7.0/solution01 - bubbleSort
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/bin/Debug/net7.0/solution01 - bubbleSort.deps.json
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/bin/Debug/net7.0/solution01 - bubbleSort.runtimeconfig.json
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/bin/Debug/net7.0/solution01 - bubbleSort.dll
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/bin/Debug/net7.0/solution01 - bubbleSort.pdb
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/obj/Debug/net7.0/solution01 - bubbleSort.dll
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/obj/Debug/net7.0/refint/solution01 - bubbleSort.dll
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/obj/Debug/net7.0/solution01 - bubbleSort.pdb
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/obj/Debug/net7.0/solution01 - bubbleSort.genruntimeconfig.cache
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution01 - bubbleSort/obj/Debug/net7.0/ref/solution01 - bubbleSort.dll

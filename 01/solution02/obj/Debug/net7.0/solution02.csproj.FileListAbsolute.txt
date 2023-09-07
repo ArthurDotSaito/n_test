@@ -1,0 +1,14 @@
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/bin/Debug/net7.0/solution02
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/bin/Debug/net7.0/solution02.deps.json
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/bin/Debug/net7.0/solution02.runtimeconfig.json
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/bin/Debug/net7.0/solution02.dll
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/bin/Debug/net7.0/solution02.pdb
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/obj/Debug/net7.0/solution02.GeneratedMSBuildEditorConfig.editorconfig
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/obj/Debug/net7.0/solution02.AssemblyInfoInputs.cache
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/obj/Debug/net7.0/solution02.AssemblyInfo.cs
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/obj/Debug/net7.0/solution02.csproj.CoreCompileInputs.cache
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/obj/Debug/net7.0/solution02.dll
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/obj/Debug/net7.0/refint/solution02.dll
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/obj/Debug/net7.0/solution02.pdb
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/obj/Debug/net7.0/solution02.genruntimeconfig.cache
+/media/arthur/AcerSSD1/Projects/Nuria/01/solution02/obj/Debug/net7.0/ref/solution02.dll

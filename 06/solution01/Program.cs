@@ -14,7 +14,10 @@ namespace Question6
             Console.WriteLine($"Matriz {n}x{n} gerada e salva em '{filename}'.");
 
             int[,] matrix = ReadMatrix(filename);
-            Console.WriteLine("Matrix: ");
+            Console.WriteLine("Original: ");
+            ShowMatrix(matrix);
+            InvertMatrixDiagonals(matrix);
+            Console.WriteLine("Diagonals Inverted: ");
             ShowMatrix(matrix);
         }
         static void CreateMatrix(string filename, int n)
@@ -67,6 +70,17 @@ namespace Question6
                     Console.Write(matrix[i, j] + " ");
                 }
                 Console.WriteLine();
+            }
+        }
+
+        static void InvertMatrixDiagonals(int[,] matrix)
+        {
+            int size = matrix.GetLength(0);
+            for (int i = 0; i < size; i++)
+            {
+                int aux = matrix[i, i];
+                matrix[i, i] = matrix[i, size - i - 1];
+                matrix[i, size - 1 - i] = aux;
             }
         }
     }

@@ -16,9 +16,9 @@ namespace Question6
             int[,] matrix = ReadMatrix(filename);
             Console.WriteLine("Original: ");
             ShowMatrix(matrix);
-            InvertMatrixDiagonals(matrix);
+            int[,] invertedMatrix = InvertMatrixDiagonals(matrix);
             Console.WriteLine("Diagonals Inverted: ");
-            ShowMatrix(matrix);
+            ShowMatrix(invertedMatrix);
         }
         static void CreateMatrix(string filename, int n)
         {
@@ -44,7 +44,7 @@ namespace Question6
             StreamReader sr = new StreamReader(f);
             string[] dimension = sr.ReadLine().Split(' ');
             int size = int.Parse(dimension[0]);
-            int[,] result = new int[size, size];
+            int[,] ret = new int[size, size];
 
             for (int i = 0; i < size; ++i)
             {
@@ -53,11 +53,11 @@ namespace Question6
 
                 for (int j = 0; j < size; ++j)
                 {
-                    result[i, j] = int.Parse(elements[j]);
+                    ret[i, j] = int.Parse(elements[j]);
                 }
             }
             sr.Close();
-            return result;
+            return ret;
         }
 
         static void ShowMatrix(int[,] matrix)
@@ -73,15 +73,16 @@ namespace Question6
             }
         }
 
-        static void InvertMatrixDiagonals(int[,] matrix)
+        static int[,] InvertMatrixDiagonals(int[,] matrix)
         {
             int size = matrix.GetLength(0);
+            int[,] invertedMatrix = new int[size, size];
             for (int i = 0; i < size; i++)
             {
-                int aux = matrix[i, i];
-                matrix[i, i] = matrix[i, size - i - 1];
-                matrix[i, size - 1 - i] = aux;
+                invertedMatrix[i, i] = matrix[i, size - i - 1];
+                invertedMatrix[i, size - i - 1] = matrix[i, i];
             }
+            return invertedMatrix;
         }
     }
 }

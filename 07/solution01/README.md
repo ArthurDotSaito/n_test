@@ -2,7 +2,7 @@
 
 Essa solução parte um pouco dos princípios de operações de convolução de matrizes. Em geral, quando falamos de redes neurais de convolução para reconhecimento de imagens, um único passe de convolução envolve três coisas:
 
-1 - Um volume de entrada (Nesse caso, a imagem ou matriz original de zero e um);
+1 - Um volume de entrada (Nesse caso, a imagem ou matriz original);
 
 2 - Aplicar um 'filtro' em cada posição do volume de entrada, onde esse filtro realiza operações de multipilicação elemento à elemento e soma todos eles;
 

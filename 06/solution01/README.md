@@ -2,7 +2,7 @@
 
 Essa solução de inversão de matriz se baseia um pouco na ideia do bubble sort, onde em certa parte, troca-se elementos adjacentes.
 
-1. Na função de inversão, primeiro é necessário obter as dimensões da matriz, para que seja possivel iterar através de seus elementos. Assim, uma forma de fazer isso é obter essa dimensão através do GetLength, que recupera o tamanho especifico de uma matriz multidimensional (No caso, passamos o argumento '0' justamente porque queremos o tamanho da primeira dimensão).
+1. Na função de inversão, primeiro é necessário obter as dimensões da matriz, para que seja possivel iterar através de seus elementos. Assim, uma forma de fazer isso é obter essa dimensão através do GetLength, que recupera o tamanho especifico de uma matriz multidimensional.
 
 2. Iteramos através do número de **linhas i** da matriz, e criamos uma matriz auxiliar apenas para armazenar temporariamente o valor da diagonal principal [i,i] (poderia ser a secundária, tanto faz).
 

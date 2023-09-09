@@ -1,0 +1,14 @@
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/obj/Debug/net7.0/solution02 - mergeSort.GeneratedMSBuildEditorConfig.editorconfig
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/obj/Debug/net7.0/solution02 - mergeSort.AssemblyInfoInputs.cache
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/obj/Debug/net7.0/solution02 - mergeSort.AssemblyInfo.cs
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/obj/Debug/net7.0/solution02 - mergeSort.csproj.CoreCompileInputs.cache
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/bin/Debug/net7.0/solution02 - mergeSort
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/bin/Debug/net7.0/solution02 - mergeSort.deps.json
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/bin/Debug/net7.0/solution02 - mergeSort.runtimeconfig.json
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/bin/Debug/net7.0/solution02 - mergeSort.dll
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/bin/Debug/net7.0/solution02 - mergeSort.pdb
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/obj/Debug/net7.0/solution02 - mergeSort.dll
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/obj/Debug/net7.0/refint/solution02 - mergeSort.dll
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/obj/Debug/net7.0/solution02 - mergeSort.pdb
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/obj/Debug/net7.0/solution02 - mergeSort.genruntimeconfig.cache
+/media/arthur/AcerSSD1/Projects/Nuria/02/solution02 - mergeSort/obj/Debug/net7.0/ref/solution02 - mergeSort.dll
